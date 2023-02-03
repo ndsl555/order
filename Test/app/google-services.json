@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "621459280333",
+    "firebase_url": "https://prefab-botany-280505-default-rtdb.firebaseio.com",
+    "project_id": "prefab-botany-280505",
+    "storage_bucket": "prefab-botany-280505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621459280333:android:d5b0d8cb3ddfe883a1f484",
+        "android_client_info": {
+          "package_name": "com.wadedaiii.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621459280333-mvteonfvu6sjrf4a74rmon9siod9cg0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdkYTBymhQOGPjZJ9juZnrvcmhGQWNG0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621459280333-mvteonfvu6sjrf4a74rmon9siod9cg0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

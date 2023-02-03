@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="store_items">
+         {"store":[
+                {
+                    "store_name": "麥當勞(斗六雲林店)",
+                    "items":[
+                        {"name": "大薯", "price": 52},
+                        {"name": "banana", "price": 20}
+                    ]
+                },
+                {
+                    "store_name": "肯德基(斗六店)",
+                    "items":[
+                        {"name": "蛋塔", "price": 60},
+                        {"name": "papaya", "price": 20}
+                    ]
+                },
+                {
+                    "store_name": "必勝客(斗六店)",
+                    "items":[
+                        {"name": "薯星星", "price": 60},
+                        {"name": "papaya", "price": 20}
+                    ]
+                },
+                {
+                    "store_name": "拿坡里(斗六中山店)",
+                    "items":[
+                        {"name": "珍珠奶茶披薩", "price": 260},
+                        {"name": "papaya", "price": 20}
+                    ]
+                },
+                {
+                    "store_name": "微笑早午餐(龍潭店)",
+                    "items":[
+                        {"name": "A餐", "price": 50},
+                        {"name": "papaya", "price": 20}
+                    ]
+                },
+                {
+                    "store_name": "Opasta(斗六店)",
+                    "items":[
+                        {"name": "奶油義大利麵", "price": 160},
+                        {"name": "papaya", "price": 20}
+                    ]
+                },
+                {
+                    "store_name": "50嵐(斗六中山店)",
+                    "items":[
+                        {"name": "拿鐵觀音", "price": 60},
+                        {"name": "papaya", "price": 20}
+                    ]
+                },
+                {
+                    "store_name": "PizzaFactory披薩工廠(雲林斗六廠)",
+                    "items":[
+                        {"name": "瑪格莉特披薩", "price": 260},
+                        {"name": "papaya", "price": 20}
+                    ]
+                },
+                {
+                    "store_name": "六扇門(斗六店)",
+                    "items":[
+                        {"name": "麻辣鍋", "price": 160},
+                        {"name": "papaya", "price": 20}
+                    ]
+                }
+            ]
+        }</string>
+</resources>
